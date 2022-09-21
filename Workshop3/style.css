@@ -1,0 +1,62 @@
+#LeftFrame{
+    display: inline-block;
+    width: 140px;
+    height: 340px;
+    border: 2px solid black;
+    background-color: blue;
+}
+
+#LeftTracks{
+    width: 106px;
+    height: 106px;
+}
+
+#MainFrame{
+    display: inline-block;
+    width: 560px;
+    height: 340px;
+    border: 2px solid black;
+    background-color: blue;
+
+    margin-left: -5px;
+}
+
+#MainTime{
+    width: 250px;
+    height: 50px;
+}
+
+#MainTrain{
+    width: 250px;
+    height: 50px;
+}
+
+/*#MainPlace{
+    width: 500px;
+    height: 175px;
+    border: 2px solid black;
+    background-color: white;
+
+    margin-top: -90px;
+    margin-left: 30px;
+}*/
+
+#MainCancel{
+    width: 500px;
+    height: 35px;
+}
+
+#MainNext{
+    width: 500px;
+    height: 35px;
+}
+
+#RightFrame{
+    display: inline-block;
+    width: 245px;
+    height: 340px;
+    border: 2px solid black;
+    background-color: white;
+
+    margin-left: -5px;
+}
